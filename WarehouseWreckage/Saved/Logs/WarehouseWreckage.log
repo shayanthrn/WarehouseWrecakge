@@ -3089,3 +3089,28 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.12.07-23.30.25:816][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2023.12.07-23.30.25:837][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
 [2023.12.07-23.30.25:894][405]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.12.07-23.38.48:520][169]LogDerivedDataCache: C:/Users/shaya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1444 files in 2412 folders with total size 91 MiB.
+[2023.12.07-23.39.52:952][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.39.53:057][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.07-23.39.53:083][887]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.12.07-23.39.53:084][887]LogSavePackage: Moving '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Saved/MainLevelC3DF45984DC0103496F156A7EEEA1A4B.tmp' to '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap'
+[2023.12.07-23.39.53:094][887]LogFileHelpers: Saving map 'MainLevel' took 0.061
+[2023.12.07-23.39.53:102][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.19 sec)
+[2023.12.07-23.39.53:104][887]AssetCheck: New page: Asset Save: MainLevel
+[2023.12.07-23.39.53:104][887]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.12.07-23.40.55:315][606]BlueprintLog: New page: Collapse to Function
+[2023.12.07-23.41.22:735][231]LogBlueprint: Error: [AssetLog] : [Compiler] Delay  cannot be placed in function graph
+[2023.12.07-23.41.22:735][231]LogBlueprint: Error: [AssetLog] : [Compiler] Delay  cannot be placed in function graph
+[2023.12.07-23.41.22:735][231]BlueprintLog: New page: Collapse to Function
+[2023.12.07-23.41.22:735][231]BlueprintLog: Error: Delay  cannot be placed in function graph
+[2023.12.07-23.41.22:735][231]BlueprintLog: Error: Delay  cannot be placed in function graph
+[2023.12.07-23.41.37:205][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-23.41.37:214][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-23.41.42:404][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.41.42:512][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.07-23.41.42:538][379]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.12.07-23.41.42:539][379]LogSavePackage: Moving '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Saved/MainLevelBEB1DF374EBA537FEF4459B38C6A4340.tmp' to '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap'
+[2023.12.07-23.41.42:551][379]LogFileHelpers: Saving map 'MainLevel' took 0.066
+[2023.12.07-23.41.42:560][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.35 sec)
+[2023.12.07-23.41.42:564][379]AssetCheck: New page: Asset Save: MainLevel
+[2023.12.07-23.41.42:564][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
