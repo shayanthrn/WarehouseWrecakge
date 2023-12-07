@@ -3114,3 +3114,27 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.12.07-23.41.42:560][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1.35 sec)
 [2023.12.07-23.41.42:564][379]AssetCheck: New page: Asset Save: MainLevel
 [2023.12.07-23.41.42:564][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.12.07-23.48.19:230][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.48.19:303][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.07-23.48.19:331][376]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.12.07-23.48.19:331][376]LogSavePackage: Moving '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Saved/MainLevel0A7EA5AE4D1DA0C243DBEE9E1B7BD32E.tmp' to '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap'
+[2023.12.07-23.48.19:343][376]LogFileHelpers: Saving map 'MainLevel' took 0.063
+[2023.12.07-23.48.19:353][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.47 sec)
+[2023.12.07-23.48.19:355][376]AssetCheck: New page: Asset Save: MainLevel
+[2023.12.07-23.48.19:355][376]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.12.07-23.50.28:636][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.50.28:739][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.07-23.50.28:766][844]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.12.07-23.50.28:767][844]LogSavePackage: Moving '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Saved/MainLevelA1F185D64FB6A4B227CA84AAEC9F66D0.tmp' to '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap'
+[2023.12.07-23.50.28:778][844]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2023.12.07-23.50.28:786][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.62 sec)
+[2023.12.07-23.50.28:789][844]AssetCheck: New page: Asset Save: MainLevel
+[2023.12.07-23.50.28:789][844]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.12.07-23.51.18:650][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-23.51.18:766][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.12.07-23.51.18:794][791]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.12.07-23.51.18:794][791]LogSavePackage: Moving '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Saved/MainLevel4E4281634B52BF864D0950B8F69F004D.tmp' to '../../../../../../Users/shaya/OneDrive/Desktop/UnrealProjects/WarehouseWreckage/WarehouseWreckage/Content/MainLevel.umap'
+[2023.12.07-23.51.18:804][791]LogFileHelpers: Saving map 'MainLevel' took 0.061
+[2023.12.07-23.51.18:812][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 1.78 sec)
+[2023.12.07-23.51.18:815][791]AssetCheck: New page: Asset Save: MainLevel
+[2023.12.07-23.51.18:815][791]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
